@@ -22,9 +22,3 @@ This is an implementation of the popular **2048** game in **x86 Assembly**. The 
 - **x86 Architecture**
 - **Assembler** (NASM or similar assembler)
 - **Emulator** (e.g., DOSBox or similar for running the assembly code)
-
-## How to Run
-
-1. **Assemble the Code**: Use NASM or any x86 assembler.
-   ```bash
-   nasm -f bin game2048.asm -o game2048.com
